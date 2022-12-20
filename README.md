@@ -53,7 +53,6 @@
 			<audio controls>
   			<source src="FlowerDance.ogg" type="audio/ogg">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
-			您的浏览器不支持 audio 元素。
 			</audio>
 			♫ DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
