@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>杨坤的博客</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -28,7 +29,7 @@
 	 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:100,300,400,500,700,900">
   </head>
   <body>
-    <section id="intro" style="background-image: url('img/Alan Turing.png');" class="intro">
+    <section id="intro" style="background-image: url('img/Bridge.png');" class="intro">
       <div class="overlay"></div>
       <div class="content">
         <div class="container clearfix">
@@ -50,15 +51,16 @@
         <div class="container"><a href="#intro" class="navbar-brand link-scroll" style="font-family:Noto Sans SC;">杨坤的博客</a>
           <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
           <div id="navbarSupportedContent" class="collapse navbar-collapse">
-			<audio controls>
-  			<source src="FlowerDance.ogg" type="audio/ogg">
+			<audio controls loop="true">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
+			<source src="https://github.com/AlanTuring01/alanblog.github.io/tree/main/FlowerDance.mp3" type="video/mpeg" loop="-1">
+			您的浏览器不支持 audio 元素。
 			</audio>
 			♫  DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
               <li class="nav-item"><a href="#intro" class="nav-link link-scroll" style="font-family:Noto Sans SC;">首页</a></li>
               <li class="nav-item"><a href="#about" class="nav-link link-scroll" style="font-family:Noto Sans SC;">关于我</a></li>
-              <li class="nav-item"><a href="#services" class="nav-link link-scroll" style="font-family:Noto Sans SC;">视频</a></li>
+              <!--<li class="nav-item"><a href="#services" class="nav-link link-scroll" style="font-family:Noto Sans SC;">视频</a></li>-->
               <li class="nav-item"><a href="#portfolio" class="nav-link link-scroll" style="font-family:Noto Sans SC;">相册</a></li>
               <li class="nav-item"><a href="#text" class="nav-link link-scroll" style="font-family:Noto Sans SC;">文字</a></li>
               <li class="nav-item"><a href="#contact" class="nav-link link-scroll" style="font-family:Noto Sans SC;">留言板</a></li>
@@ -77,28 +79,27 @@
             <ul style="font-family:Noto Sans SC;">
 			<li>上海海事大学<br>人工智能 211</li>
   			<li>INTP / 自由 / 理想主义者</li>
-  			<li>为什么跟大一一起上课：<br>转专业补大一课程</li>
 			<li>GTA 5 / CS : GO / 文明 6 / 黎明杀机 / 三国杀</li>
 			<li>喜欢交朋友</li>
 			<li><a href="img/WechatQRCode.png" style="font-family:Noto Sans SC;color:blue;">微信二维码</a></li>
 			</ul>
           </div>
           <div class="col-lg-5 mx-auto">
-            <p><img src="img/Alan Turing.png" alt="" class="img-fluid rounded-circle"></p>
+            <p><img src="img/Alan Turing.png" alt="GFW has Blcoked this picture." class="img-fluid rounded-circle"></p>
           </div>
         </div>
       </div>
     </section>
     <!-- about end-->
     <!-- Services-->
-    <section id="services" style="background-color: #eee">
+    <!--<section id="services" style="background-color: #eee">
       <div class="container">
         <div class="row services">
           <div class="col-lg-12">
             <h2 class="heading" style="font-family:Noto Sans SC;">视频</h2>
 			  <div class="col-md-4">
               <video width="1024" height="576" controls>
-  			  <source src="img/1.mp4" type="video/mp4">
+			  <source src="1.MP4" type="video/mp4">
 			  </video>
 				</div>
           </div>
@@ -169,7 +170,7 @@
                 姆巴佩加油！<br><br>2022/12/19 02:18:00</p>
               </div>
               <div class="col-md-6">
-                <p><img src="img/MC.png"></p>
+                <p><img src="img/MC.png" alt="GFW has Blcoked this picture."></p>
               </div>
             </div>
           </div>
@@ -185,7 +186,7 @@
             <h2 class="heading" style="font-family:Noto Sans SC;">留言板</h2>
             <div class="row">
               <div class="col-lg-6">
-                <form id="contact-form" method="post" action="#" class="contact-form">
+                <form id="contact-form"	 method="post" action="mailto:alanturing111@outlook.com" class="contact-form">
                   <div class="controls">
                     <div class="row">
 						<div class="col-md-6">
@@ -222,7 +223,7 @@
 		        <p style="font-family:Noto Sans SC;">—— 来自 张三，2022/12/20</p>
                   <p style="font-family:Noto Sans SC;">杨坤是谁？对盲人而言，他是视觉；对饥饿之人而言，他是厨师；对口渴之人而言，他便是水。我定赞同他的思想；我必倾听他之所言。如果杨坤只有一个粉丝，那便是我，如果杨坤没有粉丝，那我便不复存在。</p>
 			    <p style="font-family:Noto Sans SC;">—— 来自 一个匿名的粉丝，2022/12/20</p>
-			    <p style="font-family:Noto Sans SC;">Who is Kun? For the blind, He is the vision. For the hungry, He is the chef. For the thirsty, He is the water. If Kun thinks, I agree. If Kun speaks, I’m listening. If Kun has one fan, it is me. If Kun has no fans, I don’t exist.</p>
+			    <p style="font-family:Noto Sans SC;">Who is Kun? For the blind, He is the vision. For the hungry, He is the chef. For the thirsty, He is the water. If Kun thinks, I agree. If Kun speaks, I'm listening. If Kun has one fan, it is me. If Kun has no fans, I don't exist.</p>
 				  <p style="font-family:Noto Sans SC;">—— 来自 Kun's Fans，2022/12/20</p>
               </div>
             </div>
