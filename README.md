@@ -28,7 +28,7 @@
 	 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:100,300,400,500,700,900">
   </head>
   <body>
-    <section id="intro" style="background-image: url('img/Alan Turing.png');" class="intro">       
+    <section id="intro" style="background-image: url('img/Alan Turing.png');" class="intro">
       <div class="overlay"></div>
       <div class="content">
         <div class="container clearfix">
@@ -54,7 +54,7 @@
   			<source src="FlowerDance.ogg" type="audio/ogg">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
 			</audio>
-			♫ DJ Okawari - Flower Dance
+			♫  DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
               <li class="nav-item"><a href="#intro" class="nav-link link-scroll" style="font-family:Noto Sans SC;">首页</a></li>
               <li class="nav-item"><a href="#about" class="nav-link link-scroll" style="font-family:Noto Sans SC;">关于我</a></li>
@@ -78,7 +78,7 @@
 			<li>上海海事大学<br>人工智能 211</li>
   			<li>INTP / 自由 / 理想主义者</li>
   			<li>为什么跟大一一起上课：<br>转专业补大一课程</li>
-			<li>GTA 5 / CS:GO / 文明 6 / 黎明杀机 / 三国杀</li>
+			<li>GTA 5 / CS : GO / 文明 6 / 黎明杀机 / 三国杀</li>
 			<li>喜欢交朋友</li>
 			<li><a href="img/WechatQRCode.png" style="font-family:Noto Sans SC;color:blue;">微信二维码</a></li>
 			</ul>
@@ -156,7 +156,6 @@
               </div>
             </div>
     </section>
-    <div class="tlinks">Collect from <a href="http://lidaojia.tmall.com/"  title="网站模板">网站模板</a></div>
     <!-- Portfolio / gallery end-->
     <!-- text page-->
     <section id="text" class="text-page section-inverse">
@@ -166,8 +165,8 @@
             <h2 class="heading" style="font-family:Noto Sans SC;">文字</h2>
             <div class="row">
               <div class="col-md-6">
-                <p style="font-family:Noto Sans SC;font-size:20px;">2006年德国世界杯，第一次看世界杯，印象最深的还是阿根廷6-0塞黑，马拉多纳在现场激动地大喊，“梅西就是我的接班人！”C罗也刚刚初出茅庐，我还在困惑怎么又是大罗又是小罗还有个C罗。一个个未来之星迭出，从内马尔到J罗，没人比姆巴佩更配赢。姆巴佩未来的身价完全值得巅峰梅西+C罗身价之和，一人扛着法国全队向冠军冲击。希望2026年能在美国现场观赛，到时候就不知道还能有几个我让我从小如雷贯耳的球星还在了…<br><br>
-                姆巴佩加油！<br><br>2022/12/19</p>
+                <p style="font-family:Noto Sans SC;font-size:20px;">2006 年德国世界杯，第一次看世界杯，印象最深的还是阿根廷 6-0 塞黑，马拉多纳在现场激动地大喊，“梅西就是我的接班人！”C 罗也刚刚初出茅庐，我还在困惑怎么又是大罗又是小罗还有个 C 罗。一个个未来之星迭出，从内马尔到 J 罗，没人比姆巴佩更配赢。姆巴佩未来的身价完全值得巅峰梅西 + C 罗身价之和，一人扛着法国全队向冠军冲击。希望 2026 年能在美国现场观赛，到时候就不知道还能有几个我让我从小如雷贯耳的球星还在了…<br><br>
+                姆巴佩加油！<br><br>2022/12/19 02:18:00</p>
               </div>
               <div class="col-md-6">
                 <p><img src="img/MC.png"></p>
@@ -205,7 +204,7 @@
                     </div>
                     <div class="form-group">
                       <label for="surname" style="font-family:Noto Sans SC;">E-Mail *</label>
-                      <input type="email" name="email" placeholder="请输入您的E-Mail" required="required" class="form-control" style="font-family:Noto Sans SC;">
+                      <input type="email" name="email" placeholder="请输入您的 E-Mail" required="required" class="form-control" style="font-family:Noto Sans SC;">
                     </div>
                     <div class="form-group">
                       <label for="surname" style="font-family:Noto Sans SC;">留言 *</label>
@@ -220,11 +219,11 @@
               <div class="col-lg-6">
 				  <h4 style="font-family:Noto Sans SC;">精选留言</h4>
 				  <p style="font-family:Noto Sans SC;">杨坤，好久没来看你了，居然搞了个博客，以后每天都会来逛逛的 : ) </p>
-		        <p style="font-family:Noto Sans SC;">—— 来自 张三，2022/12/12</p>
+		        <p style="font-family:Noto Sans SC;">—— 来自 张三，2022/12/20</p>
                   <p style="font-family:Noto Sans SC;">杨坤是谁？对盲人而言，他是视觉；对饥饿之人而言，他是厨师；对口渴之人而言，他便是水。我定赞同他的思想；我必倾听他之所言。如果杨坤只有一个粉丝，那便是我，如果杨坤没有粉丝，那我便不复存在。</p>
-			    <p style="font-family:Noto Sans SC;">—— 来自 一个匿名的粉丝，2022/12/11</p>
+			    <p style="font-family:Noto Sans SC;">—— 来自 一个匿名的粉丝，2022/12/20</p>
 			    <p style="font-family:Noto Sans SC;">Who is Kun? For the blind, He is the vision. For the hungry, He is the chef. For the thirsty, He is the water. If Kun thinks, I agree. If Kun speaks, I’m listening. If Kun has one fan, it is me. If Kun has no fans, I don’t exist.</p>
-				  <p style="font-family:Noto Sans SC;">—— 来自 Kun's Fans，2022/12/11</p>
+				  <p style="font-family:Noto Sans SC;">—— 来自 Kun's Fans，2022/12/20</p>
               </div>
             </div>
           </div>
@@ -235,7 +234,7 @@
   <div class="container"> 
         <div class="row copyright">
           <div class="col-md-6">
-            <p class="mb-md-0 text-center text-md-left" style="font-family:Noto Sans SC;">&copy;2022 By 杨坤&nbsp; All Rights Reserved.</p>
+            <p class="mb-md-0 text-center text-md-left" style="font-family:Noto Sans SC;">&copy;2022-2023 杨坤&nbsp; All Rights Reserved.</p>
           </div>
           <div class="col-md-6">
             <p class="credit mb-md-0 text-center text-md-right"></p>
