@@ -54,7 +54,6 @@
 			<audio controls loop="true">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
 			<source src="https://github.com/AlanTuring01/alanblog.github.io/tree/main/FlowerDance.mp3" type="video/mpeg" loop="-1">
-			您的浏览器不支持 audio 元素。
 			</audio>
 			♫  DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
