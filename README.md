@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>杨坤的博客</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -54,7 +53,6 @@
 			<audio controls loop="true">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
 			<source src="https://github.com/AlanTuring01/alanblog.github.io/tree/main/FlowerDance.mp3" type="video/mpeg" loop="-1">
-			您的浏览器不支持 audio 元素。
 			</audio>
 			♫  DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
