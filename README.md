@@ -90,7 +90,7 @@
     </section>
     <!-- about end-->
     <!-- Services-->
-    <!--<section id="services" style="background-color: #eee">
+    <section id="services" style="background-color: #eee">
       <div class="container">
         <div class="row services">
           <div class="col-lg-12">
