@@ -74,20 +74,6 @@
         </div>
       </div>
     </section>
-    <section id="services" style="background-color: #eee">
-      <div class="container">
-        <div class="row services">
-          <div class="col-lg-12">
-            <h2 class="heading" style="font-family:Noto Sans SC;">视频</h2>
-			  <div class="col-md-4">
-              <video width="1024" height="576" controls>
-			  <source src="video/CSGO.mp4" type="video/mp4">
-			  </video>
-				</div>
-          </div>
-        </div>
-      </div>
-    </section>
     <section id="portfolio" class="gallery">
       <div class="container clearfix">
         <div class="row">
