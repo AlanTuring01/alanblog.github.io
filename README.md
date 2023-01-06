@@ -3,29 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>杨坤的博客</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
-    <!-- Bootstrap CSS-->
     <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
-    <!-- Font Awesome CSS-->
     <link rel="stylesheet" href="vendor/font-awesome/css/font-awesome.min.css">
-    <!-- Google fonts - Montserrat for headings, Cardo for copy-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700|Cardo:400,400italic,700">
-    <!-- Lightbox-->
     <link rel="stylesheet" href="vendor/lightbox2/css/lightbox.min.css">
-    <!-- theme stylesheet-->
     <link rel="stylesheet" href="css/style.default.css" id="theme-stylesheet">
-    <!-- Custom stylesheet - for your changes-->
     <link rel="stylesheet" href="css/custom.css">
-    <!-- Favicon-->
     <link rel="shortcut icon" href="img/favicon.png">
-    <!-- Leaflet CSS - For the map-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.css">
-    <!-- Tweaks for older IEs--><!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-	 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:100,300,400,500,700,900">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC:100,300,400,500,700,900">
   </head>
   <body>
     <section id="intro" style="background-image: url('img/Bridge.png');" class="intro">
@@ -43,8 +33,6 @@
         </div>
       </div>
     </section>
-    <!-- intro end-->
-    <!-- navbar-->
     <header class="header">
       <nav class="navbar navbar-expand-lg">
         <div class="container"><a href="#intro" class="navbar-brand link-scroll" style="font-family:Noto Sans SC;">杨坤的博客</a>
@@ -53,12 +41,13 @@
 			<audio controls loop="true">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
 			<source src="https://github.com/AlanTuring01/alanblog.github.io/tree/main/FlowerDance.mp3" type="video/mpeg" loop="-1">
+			您的浏览器不支持 audio 元素。
 			</audio>
 			♫  DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
               <li class="nav-item"><a href="#intro" class="nav-link link-scroll" style="font-family:Noto Sans SC;">首页</a></li>
               <li class="nav-item"><a href="#about" class="nav-link link-scroll" style="font-family:Noto Sans SC;">关于我</a></li>
-              <!--<li class="nav-item"><a href="#services" class="nav-link link-scroll" style="font-family:Noto Sans SC;">视频</a></li>-->
+              <li class="nav-item"><a href="#services" class="nav-link link-scroll" style="font-family:Noto Sans SC;">视频</a></li>
               <li class="nav-item"><a href="#portfolio" class="nav-link link-scroll" style="font-family:Noto Sans SC;">相册</a></li>
               <li class="nav-item"><a href="#text" class="nav-link link-scroll" style="font-family:Noto Sans SC;">文字</a></li>
               <li class="nav-item"><a href="#contact" class="nav-link link-scroll" style="font-family:Noto Sans SC;">留言板</a></li>
@@ -67,7 +56,6 @@
         </div>
       </nav>
     </header>
-    <!-- about-->
     <section id="about" class="text">
       <div class="container">
         <div class="row">
@@ -88,8 +76,6 @@
         </div>
       </div>
     </section>
-    <!-- about end-->
-    <!-- Services-->
     <section id="services" style="background-color: #eee">
       <div class="container">
         <div class="row services">
@@ -97,16 +83,13 @@
             <h2 class="heading" style="font-family:Noto Sans SC;">视频</h2>
 			  <div class="col-md-4">
               <video width="1024" height="576" controls>
-			  <source src="1.MP4" type="video/mp4">
+			  <source src="video/CSGO.mp4" type="video/mp4">
 			  </video>
 				</div>
           </div>
         </div>
       </div>
     </section>
-    <!-- Services end-->
-    
-    <!-- Portfolio / gallery-->
     <section id="portfolio" class="gallery">
       <div class="container clearfix">
         <div class="row">
@@ -124,7 +107,6 @@
 				<div class="col-md-4">
                 <div class="box"><a href="img/12.png" data-lightbox="image-1" data-title="Some footer information" class="has-border"><img src="img/12.png" alt="image" class="img-fluid"></a></div>
               </div>
-              
               <div class="col-md-4">
                 <div class="box"><a href="img/14.png" data-lightbox="image-1" data-title="Some footer information" class="has-border"><img src="img/14.png" alt="image" class="img-fluid"></a></div>
               </div>
@@ -155,8 +137,6 @@
               </div>
             </div>
     </section>
-    <!-- Portfolio / gallery end-->
-    <!-- text page-->
     <section id="text" class="text-page section-inverse">
       <div class="container">
         <div class="row">
@@ -175,8 +155,6 @@
         </div>
       </div>
     </section>
-    <!-- text page end-->
-    <!-- contact-->
     <section id="contact" style="background-color: #fff;" class="text-page pb-4"> 
       <div class="container">
         <div class="row">
@@ -236,13 +214,14 @@
             <p class="mb-md-0 text-center text-md-left" style="font-family:Noto Sans SC;">&copy;2022-2023 杨坤&nbsp; All Rights Reserved.</p>
           </div>
           <div class="col-md-6">
-            <p class="credit mb-md-0 text-center text-md-right"></p>
-            
+            <p class="credit mb-md-0 text-center text-md-right" style="font-family:Noto Sans SC;">友情链接&nbsp;&nbsp;
+			 <a href="https://ausertdream.github.io" target="_blank" style="font-family:Noto Sans SC;">Ausert&nbsp;&nbsp;</a>
+				<a href="https://kr777.xyz/" target="_blank" style="font-family:Noto Sans SC;">狂人</a>
+			  </p>
           </div>
         </div>
       </div>
     </footer>
-    <!-- JavaScript files-->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="vendor/jquery.cookie/jquery.cookie.js"> </script>
