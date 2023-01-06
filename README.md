@@ -41,7 +41,6 @@
 			<audio controls loop="true">
   			<source src="FlowerDance.mp3" type="audio/mpeg">
 			<source src="https://github.com/AlanTuring01/alanblog.github.io/tree/main/FlowerDance.mp3" type="video/mpeg" loop="-1">
-			您的浏览器不支持 audio 元素。
 			</audio>
 			♫  DJ Okawari - Flower Dance
             <ul class="navbar-nav ml-auto">
@@ -155,58 +154,6 @@
         </div>
       </div>
     </section>
-    <section id="contact" style="background-color: #fff;" class="text-page pb-4"> 
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <h2 class="heading" style="font-family:Noto Sans SC;">留言板</h2>
-            <div class="row">
-              <div class="col-lg-6">
-                <form id="contact-form"	 method="post" action="mailto:alanturing111@outlook.com" class="contact-form">
-                  <div class="controls">
-                    <div class="row">
-						<div class="col-md-6">
-                        <div class="form-group">
-                          <label for="surname" style="font-family:Noto Sans SC;">姓名 *</label>
-                          <input type="text" name="surname" placeholder="请输入您的姓名" required="required" class="form-control" style="font-family:Noto Sans SC;">
-                        </div>
-                      </div>
-                      <div class="col-md-6">
-                        <div class="form-group">
-                          <label for="name" style="font-family:Noto Sans SC;">昵称 *</label>
-                          <input type="text" name="name" placeholder="请输入您的昵称" required="required" class="form-control" style="font-family:Noto Sans SC;">
-                        </div>
-                      </div>
-                      
-                    </div>
-                    <div class="form-group">
-                      <label for="surname" style="font-family:Noto Sans SC;">E-Mail *</label>
-                      <input type="email" name="email" placeholder="请输入您的 E-Mail" required="required" class="form-control" style="font-family:Noto Sans SC;">
-                    </div>
-                    <div class="form-group">
-                      <label for="surname" style="font-family:Noto Sans SC;">留言 *</label>
-                      <textarea rows="4" name="message" placeholder="请输入您的留言" required class="form-control" style="font-family:Noto Sans SC;"></textarea>
-                    </div>
-                    <div class="text-center">
-                      <input type="submit" name="name" value="提交" class="btn btn-outline-primary btn-block" style="font-family:Noto Sans SC;">
-                    </div>
-                  </div>
-                </form>
-              </div>
-              <div class="col-lg-6">
-				  <h4 style="font-family:Noto Sans SC;">精选留言</h4>
-				  <p style="font-family:Noto Sans SC;">杨坤，好久没来看你了，居然搞了个博客，以后每天都会来逛逛的 : ) </p>
-		        <p style="font-family:Noto Sans SC;">—— 来自 张三，2022/12/20</p>
-                  <p style="font-family:Noto Sans SC;">杨坤是谁？对盲人而言，他是视觉；对饥饿之人而言，他是厨师；对口渴之人而言，他便是水。我定赞同他的思想；我必倾听他之所言。如果杨坤只有一个粉丝，那便是我，如果杨坤没有粉丝，那我便不复存在。</p>
-			    <p style="font-family:Noto Sans SC;">—— 来自 一个匿名的粉丝，2022/12/20</p>
-			    <p style="font-family:Noto Sans SC;">Who is Kun? For the blind, He is the vision. For the hungry, He is the chef. For the thirsty, He is the water. If Kun thinks, I agree. If Kun speaks, I'm listening. If Kun has one fan, it is me. If Kun has no fans, I don't exist.</p>
-				  <p style="font-family:Noto Sans SC;">—— 来自 Kun's Fans，2022/12/20</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 <footer style="background-color: #111;">
   <div class="container"> 
         <div class="row copyright">
@@ -222,11 +169,5 @@
         </div>
       </div>
     </footer>
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="vendor/jquery.cookie/jquery.cookie.js"> </script>
-    <script src="vendor/lightbox2/js/lightbox.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.4.0/leaflet.js"> </script>
-    <script src="js/front.js"></script>
   </body>
 </html>
