@@ -63,13 +63,13 @@
             <ul style="font-family:Noto Sans SC;">
 			<li>上海海事大学<br>人工智能 211</li>
   			<li>INTP / 自由 / 理想主义者</li>
-			<li>GTA 5 / CS : GO / 文明 6 / 黎明杀机 / 三国杀</li>
+			<li>GTA 5 / CS : GO / 文明 6 / 三国杀</li>
 			<li>喜欢交朋友</li>
 			<li><a href="img/WechatQRCode.png" style="font-family:Noto Sans SC;color:blue;">微信二维码</a></li>
 			</ul>
           </div>
           <div class="col-lg-5 mx-auto">
-            <p><img src="img/Alan Turing.png" alt="GFW has Blcoked this picture." class="img-fluid rounded-circle"></p>
+            <p><img src="img/Alan Turing.png" alt="GFW has blcoked this picture." class="img-fluid rounded-circle"></p>
           </div>
         </div>
       </div>
@@ -132,7 +132,7 @@
                 姆巴佩加油！<br><br>2022/12/19 02:18:00</p>
               </div>
               <div class="col-md-6">
-                <p><img src="img/MC.png" alt="GFW has Blcoked this picture."></p>
+                <p><img src="img/MC.png" alt="GFW has blcoked this picture."></p>
               </div>
             </div>
           </div>
@@ -148,7 +148,6 @@
           <div class="col-md-6">
             <p class="credit mb-md-0 text-center text-md-right" style="font-family:Noto Sans SC;">友情链接&nbsp;&nbsp;
 			 <a href="https://ausertdream.github.io" target="_blank" style="font-family:Noto Sans SC;">Ausert&nbsp;&nbsp;</a>
-				<a href="https://kr777.xyz/" target="_blank" style="font-family:Noto Sans SC;">狂人</a>
 			  </p>
           </div>
         </div>
